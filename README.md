@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Explorando o Azure OpenAI: Um Guia Completo para Implementação e Configuração de Modelos de IA
 
 O Azure OpenAI Service oferece uma plataforma robusta que integra modelos de Inteligência Artificial (IA) com as poderosas ferramentas da Microsoft Azure. Com ele, os desenvolvedores podem usar modelos como GPT, Codex e DALL·E para criar soluções, automatizar processos e melhorar a eficiência em uma variedade de áreas, como atendimento ao cliente, análise de dados e criação de conteúdo.
